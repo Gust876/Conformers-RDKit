@@ -1,0 +1,6 @@
+xyz/
+
+conformers_process.log
+conformers_backup.jsonl
+*.json
+
